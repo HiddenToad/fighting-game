@@ -1,0 +1,11 @@
+pub const PLAYER_SCALE: f32 = 0.03;
+pub const BASE_SPEED_DIST: f32 = 1.;
+pub const BASE_HEALTH: f32 = 10.;
+pub const BASE_REGEN: f32 = 0.;
+pub const BASE_PERCENT_DAMAGE: f32 = 0.;
+pub const BASE_FLAT_DAMAGE: f32 = 0.;
+pub const BASE_ATTACK_SPEED: f32 = 0.;
+pub const BASE_RANGE: f32 = 0.;
+pub const BASE_ARMOR: f32 = 0.;
+pub const BASE_DODGE: f32 = 0.;
+pub const BASE_PERCENT_SPEED: f32 = 0.;
